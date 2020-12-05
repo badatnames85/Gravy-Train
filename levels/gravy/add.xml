@@ -1,0 +1,7 @@
+<table directory="assets">
+	<add path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" type="unit">
+		<material_config path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" unload="true"/>
+		<object path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" unload="true"/>
+		<unit path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" unload="true"/>
+	</add>
+</table>

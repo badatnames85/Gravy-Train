@@ -1,0 +1,16 @@
+<materials version="3">
+	<material name="mat_crossing" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing_df" />
+		<bump_normal_texture file="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing_nm" />
+	</material>
+	<material name="mat_crossing_lod" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing_df" mip="4" />
+		<bump_normal_texture file="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing_nm" mip="4" />
+	</material>
+	<material name="mat_grill" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:NORMALMAP" version="2">
+		<diffuse_texture file="units/dev_tools/temp_textures/temp_texture_df" />
+		<bump_normal_texture file="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing_nm" />
+		<variable value="0" type="scalar" name="alpha_ref" />
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>
