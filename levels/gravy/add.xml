@@ -1,4 +1,9 @@
 <table directory="assets">
+	<add path="units/payday2/architecture/air_hangar_segment/air_shed_welcometothejungle_a" type="unit">
+		<unit path="units/payday2/architecture/air_hangar_segment/air_shed_welcometothejungle_a" unload="true"/>
+		<object path="units/payday2/architecture/air_hangar_segment/air_shed_welcometothejungle_a" unload="true"/>
+		<material_config path="units/payday2/architecture/air_hangar_segment/air_hangar_segment01" unload="true"/>
+	</add>
 	<add path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" type="unit">
 		<material_config path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" unload="true"/>
 		<object path="units/pd2_dlc_chew/props/chw_prop_train_crossing/chw_prop_train_crossing" unload="true"/>

@@ -61,6 +61,7 @@
 			<value_node value="levels/instances/unique/hlm_vault/world/world"/>
 			<value_node value="levels/narratives/butcher/friend/art_patio/art_patio"/>
 			<value_node value="levels/instances/unique/nail_ladder_loc/world/world"/>
+			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
