@@ -82,6 +82,7 @@
 			<value_node value="levels/instances/unique/nail_ladder_loc/world/world"/>
 			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
 			<value_node value="packages/dlcs/vit/job_vit"/>
+			<value_node value="levels/narratives/locke/brb/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
